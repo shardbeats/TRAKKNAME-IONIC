@@ -1,0 +1,11 @@
+{
+ "exported_at": "2026-10-01T23:13:00.898060+00:00",
+ "counts": {
+  "genres": 20,
+  "artists": 374,
+  "words": 2739,
+  "moods": 20,
+  "patterns": 18,
+  "genre_relations": 28
+ }
+}

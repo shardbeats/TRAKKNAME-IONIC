@@ -1,0 +1,142 @@
+[
+ {
+  "genre": "Trap",
+  "related": "Hip Hop",
+  "weight": 1.0
+ },
+ {
+  "genre": "Trap",
+  "related": "Drill",
+  "weight": 0.8
+ },
+ {
+  "genre": "Trap",
+  "related": "Latin Trap",
+  "weight": 0.6
+ },
+ {
+  "genre": "Hip Hop",
+  "related": "Boom Bap",
+  "weight": 0.7
+ },
+ {
+  "genre": "Hip Hop",
+  "related": "West Coast",
+  "weight": 0.6
+ },
+ {
+  "genre": "Hip Hop",
+  "related": "East Coast",
+  "weight": 0.6
+ },
+ {
+  "genre": "Drill",
+  "related": "Trap",
+  "weight": 0.8
+ },
+ {
+  "genre": "Drill",
+  "related": "Hip Hop",
+  "weight": 0.5
+ },
+ {
+  "genre": "R&B",
+  "related": "Soul",
+  "weight": 0.9
+ },
+ {
+  "genre": "R&B",
+  "related": "Hip Hop",
+  "weight": 0.5
+ },
+ {
+  "genre": "Soul",
+  "related": "R&B",
+  "weight": 0.9
+ },
+ {
+  "genre": "Soul",
+  "related": "Lo-Fi",
+  "weight": 0.5
+ },
+ {
+  "genre": "Lo-Fi",
+  "related": "Boom Bap",
+  "weight": 0.7
+ },
+ {
+  "genre": "Lo-Fi",
+  "related": "Soul",
+  "weight": 0.5
+ },
+ {
+  "genre": "Reggaeton",
+  "related": "Latin Trap",
+  "weight": 0.9
+ },
+ {
+  "genre": "Reggaeton",
+  "related": "Dancehall",
+  "weight": 0.6
+ },
+ {
+  "genre": "Latin Trap",
+  "related": "Reggaeton",
+  "weight": 0.9
+ },
+ {
+  "genre": "Latin Trap",
+  "related": "Trap",
+  "weight": 0.7
+ },
+ {
+  "genre": "House",
+  "related": "Deep House",
+  "weight": 0.8
+ },
+ {
+  "genre": "House",
+  "related": "Tech House",
+  "weight": 0.8
+ },
+ {
+  "genre": "Afrobeat",
+  "related": "Dancehall",
+  "weight": 0.6
+ },
+ {
+  "genre": "Afrobeat",
+  "related": "R&B",
+  "weight": 0.5
+ },
+ {
+  "genre": "Phonk",
+  "related": "Trap",
+  "weight": 0.6
+ },
+ {
+  "genre": "Phonk",
+  "related": "Experimental",
+  "weight": 0.4
+ },
+ {
+  "genre": "West Coast",
+  "related": "Hip Hop",
+  "weight": 0.7
+ },
+ {
+  "genre": "East Coast",
+  "related": "Boom Bap",
+  "weight": 0.8
+ },
+ {
+  "genre": "Pop",
+  "related": "R&B",
+  "weight": 0.5
+ },
+ {
+  "genre": "Pop",
+  "related": "House",
+  "weight": 0.4
+ }
+]

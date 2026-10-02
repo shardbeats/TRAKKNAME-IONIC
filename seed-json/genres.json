@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Afrobeat",
+  "description": "Afro-fusion groove",
+  "enabled": 1
+ },
+ {
+  "name": "Boom Bap",
+  "description": "90s dusty drums",
+  "enabled": 1
+ },
+ {
+  "name": "Dancehall",
+  "description": "Caribbean bounce",
+  "enabled": 1
+ },
+ {
+  "name": "Deep House",
+  "description": "Warm deep chords",
+  "enabled": 1
+ },
+ {
+  "name": "Drill",
+  "description": "Sliding 808s, cold streets",
+  "enabled": 1
+ },
+ {
+  "name": "East Coast",
+  "description": "Gritty NYC bars",
+  "enabled": 1
+ },
+ {
+  "name": "Experimental",
+  "description": "Left-field textures",
+  "enabled": 1
+ },
+ {
+  "name": "Hip Hop",
+  "description": "Classic rap energy",
+  "enabled": 1
+ },
+ {
+  "name": "House",
+  "description": "Four on the floor",
+  "enabled": 1
+ },
+ {
+  "name": "Jersey Club",
+  "description": "Bouncy club energy",
+  "enabled": 1
+ },
+ {
+  "name": "Latin Trap",
+  "description": "Spanish trap nocturno",
+  "enabled": 1
+ },
+ {
+  "name": "Lo-Fi",
+  "description": "Dusty, nostalgic, chill",
+  "enabled": 1
+ },
+ {
+  "name": "Phonk",
+  "description": "Memphis cowbell drift",
+  "enabled": 1
+ },
+ {
+  "name": "Pop",
+  "description": "Bright catchy hooks",
+  "enabled": 1
+ },
+ {
+  "name": "R&B",
+  "description": "Smooth, intimate, velvet",
+  "enabled": 1
+ },
+ {
+  "name": "Reggaeton",
+  "description": "Dembow perreo",
+  "enabled": 1
+ },
+ {
+  "name": "Soul",
+  "description": "Warm, gospel-tinged",
+  "enabled": 1
+ },
+ {
+  "name": "Tech House",
+  "description": "Minimal rolling groove",
+  "enabled": 1
+ },
+ {
+  "name": "Trap",
+  "description": "Heavy 808s, dark street luxury",
+  "enabled": 1
+ },
+ {
+  "name": "West Coast",
+  "description": "G-funk glide",
+  "enabled": 1
+ }
+]

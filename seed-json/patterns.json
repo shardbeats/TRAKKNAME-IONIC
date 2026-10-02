@@ -1,0 +1,128 @@
+[
+ {
+  "name": "Adj + Noun",
+  "language": "en",
+  "template": "ADJ NOUN",
+  "weight": 10.0,
+  "enabled": 1
+ },
+ {
+  "name": "Noun + Noun",
+  "language": "en",
+  "template": "NOUN NOUN",
+  "weight": 6.0,
+  "enabled": 1
+ },
+ {
+  "name": "Verb + Noun",
+  "language": "en",
+  "template": "VERB NOUN",
+  "weight": 5.0,
+  "enabled": 1
+ },
+ {
+  "name": "Adj Adj Noun",
+  "language": "en",
+  "template": "ADJ ADJ NOUN",
+  "weight": 3.0,
+  "enabled": 0
+ },
+ {
+  "name": "Verb Adj Noun",
+  "language": "en",
+  "template": "VERB ADJ NOUN",
+  "weight": 2.0,
+  "enabled": 0
+ },
+ {
+  "name": "Lost + Noun",
+  "language": "en",
+  "template": "Lost NOUN",
+  "weight": 2.0,
+  "enabled": 0
+ },
+ {
+  "name": "The + Adj + Noun",
+  "language": "en",
+  "template": "The ADJ NOUN",
+  "weight": 2.0,
+  "enabled": 0
+ },
+  {
+  "name": "Noun After Noun",
+  "language": "en",
+  "template": "NOUN After NOUN",
+  "weight": 1.5,
+  "enabled": 0
+ },
+ {
+  "name": "Adj Dreams",
+  "language": "en",
+  "template": "ADJ Dreams",
+  "weight": 1.5,
+  "enabled": 0
+ },
+ {
+  "name": "Noun Nights",
+  "language": "en",
+  "template": "NOUN Nights",
+  "weight": 1.5,
+  "enabled": 0
+ },
+ {
+  "name": "Noun of Noun",
+  "language": "en",
+  "template": "NOUN of NOUN",
+  "weight": 1.5,
+  "enabled": 1
+ },
+ {
+  "name": "Adjetivo + Sustantivo",
+  "language": "es",
+  "template": "ADJ NOUN",
+  "weight": 8.0,
+  "enabled": 1
+ },
+ {
+  "name": "Sustantivo + Adjetivo",
+  "language": "es",
+  "template": "NOUN ADJ",
+  "weight": 8.0,
+  "enabled": 1
+ },
+ {
+  "name": "Verbo + Sustantivo",
+  "language": "es",
+  "template": "VERB NOUN",
+  "weight": 5.0,
+  "enabled": 1
+ },
+ {
+  "name": "Noun + Noun (ES)",
+  "language": "es",
+  "template": "NOUN NOUN",
+  "weight": 4.0,
+  "enabled": 0
+ },
+ {
+  "name": "Sustantivo de Sustantivo",
+  "language": "es",
+  "template": "NOUN de NOUN",
+  "weight": 4.0,
+  "enabled": 1
+ },
+ {
+  "name": "Los + Noun",
+  "language": "es",
+  "template": "Los NOUN",
+  "weight": 2.0,
+  "enabled": 0
+ },
+  {
+  "name": "La + Noun",
+  "language": "es",
+  "template": "La NOUN",
+  "weight": 2.0,
+  "enabled": 0
+ }
+]

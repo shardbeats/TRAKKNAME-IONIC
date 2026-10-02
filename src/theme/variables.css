@@ -1,0 +1,69 @@
+/* TRAKKNAME / TRAKKOUT identity — 100% text, zero emoji */
+:root {
+  --trakk-bg: #151617;
+  --trakk-panel: #1c1d1f;
+  --trakk-input: #202124;
+  --trakk-border: #45474a;
+  --trakk-text: #e5e5e5;
+  --trakk-muted: #92959a;
+  --trakk-accent: #f5a623;
+
+  --ion-background-color: var(--trakk-bg);
+  --ion-background-color-rgb: 21, 22, 23;
+  --ion-text-color: var(--trakk-text);
+  --ion-text-color-rgb: 229, 229, 229;
+  --ion-color-primary: var(--trakk-accent);
+  --ion-color-primary-rgb: 245, 166, 35;
+  --ion-color-primary-contrast: #151617;
+  --ion-toolbar-background: var(--trakk-panel);
+  --ion-toolbar-color: var(--trakk-text);
+  --ion-tab-bar-background: var(--trakk-panel);
+  --ion-tab-bar-color: var(--trakk-muted);
+  --ion-tab-bar-color-selected: var(--trakk-accent);
+  --ion-item-background: var(--trakk-panel);
+  --ion-card-background: var(--trakk-panel);
+}
+
+ion-content {
+  --background: var(--trakk-bg);
+}
+
+.trakk-panel {
+  background: var(--trakk-panel);
+  border: 1px solid var(--trakk-border);
+  border-radius: 10px;
+  padding: 12px;
+  margin: 8px 0;
+}
+
+.trakk-muted {
+  color: var(--trakk-muted);
+  font-size: 0.85em;
+}
+
+.trakk-title-big {
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin: 12px 0 4px;
+}
+
+.trakk-chip {
+  border: 1px solid var(--trakk-border);
+  border-radius: 999px;
+  padding: 6px 12px;
+  background: var(--trakk-input);
+  color: var(--trakk-text);
+}
+
+ion-button.trakk-generate {
+  --background: var(--trakk-accent);
+  --color: #151617;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+ion-select, ion-input, ion-textarea {
+  --background: var(--trakk-input);
+}

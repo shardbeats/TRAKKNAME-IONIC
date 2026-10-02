@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Aggressive",
+  "description": "Distorted 808s, fast hats; trap, drill",
+  "enabled": 1
+ },
+ {
+  "name": "Bouncy",
+  "description": "Danceable bounce; jersey club, Detroit",
+  "enabled": 1
+ },
+ {
+  "name": "Chill",
+  "description": "Relaxed and laid-back; lo-fi, R&B",
+  "enabled": 1
+ },
+ {
+  "name": "Cinematic",
+  "description": "Big and dramatic; trap, drill",
+  "enabled": 1
+ },
+ {
+  "name": "Dark",
+  "description": "Minor keys, heavy 808s; trap, drill, phonk",
+  "enabled": 1
+ },
+ {
+  "name": "Dreamy",
+  "description": "Hazy and reverberant; lo-fi, R&B, rage",
+  "enabled": 1
+ },
+ {
+  "name": "Emotional",
+  "description": "Expressive, heartfelt melodies; trap, R&B",
+  "enabled": 1
+ },
+ {
+  "name": "Energetic",
+  "description": "Driving and fast; pop, jersey, rage",
+  "enabled": 1
+ },
+ {
+  "name": "Epic",
+  "description": "Triumphant and larger-than-life; trap, drill",
+  "enabled": 1
+ },
+ {
+  "name": "Gritty",
+  "description": "Raw and dusty; boom bap, east coast",
+  "enabled": 1
+ },
+ {
+  "name": "Hard",
+  "description": "Punchy street weight; drill, trap",
+  "enabled": 1
+ },
+ {
+  "name": "Hype",
+  "description": "Club-ready intensity; jersey, rage, drill",
+  "enabled": 1
+ },
+ {
+  "name": "Melancholy",
+  "description": "Nostalgic sadness; boom bap, lo-fi",
+  "enabled": 1
+ },
+ {
+  "name": "Melodic",
+  "description": "Melody-forward; trap, drill, R&B",
+  "enabled": 1
+ },
+ {
+  "name": "Mysterious",
+  "description": "Suspenseful and eerie; phonk, drill",
+  "enabled": 1
+ },
+ {
+  "name": "Romantic",
+  "description": "Love songs; R&B, afrobeat, reggaeton",
+  "enabled": 1
+ },
+ {
+  "name": "Sad",
+  "description": "Emotional piano/guitar; emo trap, R&B",
+  "enabled": 1
+ },
+ {
+  "name": "Sexy",
+  "description": "Slow and seductive; R&B, dancehall",
+  "enabled": 1
+ },
+ {
+  "name": "Smooth",
+  "description": "Silky grooves; R&B, soul",
+  "enabled": 1
+ },
+ {
+  "name": "Uplifting",
+  "description": "Positive and motivational; pop, afrobeat",
+  "enabled": 1
+ }
+]
