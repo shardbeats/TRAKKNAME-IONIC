@@ -1,0 +1,16 @@
+{
+  "short_name": "TRAKKNAME",
+  "name": "TRAKKNAME",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#151617",
+  "background_color": "#151617"
+}

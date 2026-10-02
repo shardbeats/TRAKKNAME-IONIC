@@ -1,0 +1,6146 @@
+[
+ {
+  "name": "03 Greedo",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "100 gecs",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "21 Savage",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "22Gz",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "2Rare",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Jersey Club",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "2hollis",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "4batz",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "50 Cent",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "6lack",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "A Tribe Called Quest",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "A$AP Rocky",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "AJ Tracey",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Acru",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Adele",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Aitana",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Aitch",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Akapellah",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Al Green",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Alchemist",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Alemán",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Alicia Keys",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Alkaline",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Amy Winehouse",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ana Tijoux",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Anderson .Paak",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Anuel AA",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 10.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Apache",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Apollored1",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Arca",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 10.0
+   }
+  ]
+ },
+ {
+  "name": "Arcangel",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Aretha Franklin",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ariana Grande",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Asake",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 10.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Aso",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ayax y Prok",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ayra Starr",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "BNXN",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Baby Keem",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Babyface Ray",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Babyfxce E",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Bad Bunny",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 10.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Bandmanrill",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Jersey Club",
+    "weight": 9.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Becky G",
+  "enabled": true,
+  "region": "US",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Beenie Man",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Benny the Butcher",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Beny Jr",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Beyoncé",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 10.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Bicep",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Deep House",
+    "weight": 8.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Big Sean",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Big Soto",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "BigXthaPlug",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Billie Eilish",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Bizarrap",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Black Coffee",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Deep House",
+    "weight": 10.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   },
+   {
+    "genre": "Afrobeat",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Black Pumas",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Black Sherif",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Bladee",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Blessd",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Blxst",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Boldy James",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Bonobo",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Deep House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "BossMan Dlow",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Brent Faiyaz",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 10.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Brray",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Bruno Mars",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Burna Boy",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 10.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "C-Kan",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "C. Tangana",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "CKay",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ca7riel y Paco Amoroso",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Calvin Harris",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Camilo",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Canserbero",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   }
+  ]
+ },
+ {
+  "name": "Cardi B",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Cartel de Santa",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Cash Cobain",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 9.0
+   },
+   {
+    "genre": "Jersey Club",
+    "weight": 7.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Cazzu",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Central Cee",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Chancha Vía Circuito",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Chappell Roan",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Charli XCX",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "House",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Che",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Chief Keef",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Chow Lee",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   },
+   {
+    "genre": "Jersey Club",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Chris Brown",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Chris Lake",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Tech House",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Chronic Law",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Cimafunk",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Coco Jones",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Coi Leray",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Jersey Club",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Conway the Machine",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Cris Mj",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Cruz Cafuné",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Cuco",
+  "enabled": true,
+  "region": "US",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Curren$y",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "D'Angelo",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "DJ Khaled",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "DJ Premier",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "DJ Smokey",
+  "enabled": true,
+  "region": "US",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "DJ Yung Vamp",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "DMX",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "DVRST",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Daddy Yankee",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Dalex",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Daniel Caesar",
+  "enabled": true,
+  "region": "Canada",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Darell",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Dave",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "David Guetta",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Davido",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "De La Ghetto",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Death Grips",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Delaossa",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Denzel Curry",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Destin Conrad",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Destroy Lonely",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Dillom",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Diplo",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Disclosure",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Deep House",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Doechii",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Doja Cat",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Dom Dolla",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Tech House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Don Omar",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Don Toliver",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Drake",
+  "enabled": true,
+  "region": "Canada",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Dua Lipa",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "House",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Duki",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "E-40",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ecco2k",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Ed Sheeran",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "El Alfa",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "El Bobe",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "El Chojin",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Eladio Carrión",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ella Mai",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Emilia",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Eminem",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Erykah Badu",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "EsDeeKid",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Feid",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Fireboy DML",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Fisher",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Tech House",
+    "weight": 9.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Fivio Foreign",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "FloyyMenor",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Flying Lotus",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Lo-Fi",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Foyone",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Fred Again",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Fridayy",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Future",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 4.0
+   }
+  ]
+ },
+ {
+  "name": "Gang Starr",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Gata Cattana",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Gera MX",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ghostemane",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Ghostface Playa",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Girl Ultra",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Lo-Fi",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Giveon",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "GloRilla",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Griselda",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Gunna",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "H.E.R.",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Hades66",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Harry Styles",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Headie One",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Hensonn",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Homixide Gang",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Ice Cube",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Ice Spice",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ivy Queen",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "J Balvin",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "J Dilla",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "J. Cole",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "JC Reyes",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "JID",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "JPEGMAFIA",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Jadakiss",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Jamie xx",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Jane Remover",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Jay-Z",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Jhayco",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Jhené Aiko",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Jinsang",
+  "enabled": true,
+  "region": "US",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Joeboy",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Joey Bada$$",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "John Legend",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "John Summit",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 9.0
+   },
+   {
+    "genre": "Tech House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Juice WRLD",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Justin Bieber",
+  "enabled": true,
+  "region": "Canada",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Justin Timberlake",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "K-Trap",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Kafu Banton",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Kaito Shoma",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Kali Uchis",
+  "enabled": true,
+  "region": "US",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Karol G",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Kaytranada",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Kehlani",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Keinemusik",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Deep House",
+    "weight": 9.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   },
+   {
+    "genre": "Afrobeat",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ken Carson",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Kendrick Lamar",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Khalid",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Khea",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Kordhell",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "La Excepción",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "La Mala Rodríguez",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lady Gaga",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Larry June",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Latto",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Lauryn Hill",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Lazer Dim 700",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lelo",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Lenny Tavárez",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Leon Bridges",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Leon Thomas",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 10.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Lil Baby",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Lil Peep",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lil Supa",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Lil Uzi Vert",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Jersey Club",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Lil Wayne",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Little Homie",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lola Índigo",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Lomiiel",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Los Aldeanos",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Lucky Daye",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lyanno",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Lápiz Conciente",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "MCVERTT",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Jersey Club",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Manuel Turizo",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Marshmello",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Marvin Gaye",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "María Becerra",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Masicka",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Mau P",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Tech House",
+    "weight": 9.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Maxwell",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Meek Mill",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Megan Thee Stallion",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Metro Boomin",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Micro TDH",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Miguel",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Miley Cyrus",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Mobb Deep",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "MoonDeity",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Mora",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Morad",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Mos Def",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Muni Long",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Mustard",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Myke Towers",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Nach",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Nas",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "East Coast",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Nathy Peluso",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Natos y Waor",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Natti Natasha",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Nemzzz",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "Jersey Club",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Nettspend",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Neutro Shorty",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Nicki Minaj",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Nicki Nicole",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Nicola Cruz",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Normani",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Nsqk",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Nujabes",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 10.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Olivia Rodrigo",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Omah Lay",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Omar Apollo",
+  "enabled": true,
+  "region": "US",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Orishas",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Otis Redding",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Outkast",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Ozuna",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "PARTYNEXTDOOR",
+  "enabled": true,
+  "region": "Canada",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Pablo Chill-E",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Peggy Gou",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Tech House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Pharmacist",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Phonk",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Piso 21",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Playboi Carti",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Pop Smoke",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 10.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Popcaan",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Porta",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Portavoz",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Post Malone",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Quadeca",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Quevedo",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Rapsusklei",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Rauw Alejandro",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Ray Vaughn",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Rels B",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Rema",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Rick Ross",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Rihanna",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Rio Da Yung OG",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Roc Marciano",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Roddy Ricch",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Rome Streetz",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Rosalía",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Russ Millions",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Ryan Castro",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "SFDK",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "SOPHIE",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 10.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "SZA",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 10.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Saba",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Sabrina Carpenter",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Santa Fe Klan",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Sean Paul",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 10.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Sebastián Yatra",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Sech",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Sexyy Red",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Seyi Vibez",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Shaggy",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Shakira",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 6.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Shallipopi",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Shawny Binladen",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Sheff G",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Shenseea",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Shotta",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Silk Sonic",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Skepta",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Skilla Baby",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Skillibeng",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Skrillex",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 9.0
+   },
+   {
+    "genre": "House",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Sleepy Hallow",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Smino",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Snoop Dogg",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Snow Tha Product",
+  "enabled": true,
+  "region": "US",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Spice",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Stevie Wonder",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Soul",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 7.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Stormzy",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Drill",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Summer Walker",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Tate McRae",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Taylor Swift",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 10.0
+   }
+  ]
+ },
+ {
+  "name": "Tego Calderón",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 7.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Tems",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "The Game",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "The Notorious B.I.G.",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 10.0
+   },
+   {
+    "genre": "East Coast",
+    "weight": 10.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "The Roots",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "The Weeknd",
+  "enabled": true,
+  "region": "Canada",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Tinashe",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Tini",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Tiësto",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Tom Misch",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 7.0
+   },
+   {
+    "genre": "Soul",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Tommy Richman",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Tomppabeats",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "ToteKing",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Travis Scott",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Trueno",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Tyla",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 9.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Dancehall",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Tyler the Creator",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Uncle Waffles",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "House",
+    "weight": 8.0
+   },
+   {
+    "genre": "Afrobeat",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Usher",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 10.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Veeze",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Vico C",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Victoria Monét",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "R&B",
+    "weight": 9.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Villano Antillano",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Vince Staples",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Violadores del Verso",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Boom Bap",
+    "weight": 10.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Vybz Kartel",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Dancehall",
+    "weight": 10.0
+   }
+  ]
+ },
+ {
+  "name": "Wisin & Yandel",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "Wiz Khalifa",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "West Coast",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Wizkid",
+  "enabled": true,
+  "region": "Africa",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Afrobeat",
+    "weight": 10.0
+   },
+   {
+    "genre": "R&B",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Wos",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 9.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Wu-Tang Clan",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "East Coast",
+    "weight": 10.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "XXXTentacion",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "YG",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "West Coast",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "YSY A",
+  "enabled": true,
+  "region": "LATAM",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Yeat",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Young Miko",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Latin Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Pop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Young Thug",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 9.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 8.0
+   },
+   {
+    "genre": "Experimental",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Yovngchimi",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Drill",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Latin Trap",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "Yung Lean",
+  "enabled": true,
+  "region": "Europe",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "ZPU",
+  "enabled": true,
+  "region": "Spain",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Hip Hop",
+    "weight": 7.0
+   },
+   {
+    "genre": "Boom Bap",
+    "weight": 7.0
+   }
+  ]
+ },
+ {
+  "name": "Zion & Lennox",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Zukenee",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ },
+ {
+  "name": "dryhope",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "eevee",
+  "enabled": true,
+  "region": "Other",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "fakemink",
+  "enabled": true,
+  "region": "UK",
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Experimental",
+    "weight": 8.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "name": "idealism",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 9.0
+   }
+  ]
+ },
+ {
+  "name": "sleepy fish",
+  "enabled": true,
+  "region": null,
+  "language": "en",
+  "genres": [
+   {
+    "genre": "Lo-Fi",
+    "weight": 8.0
+   }
+  ]
+ },
+ {
+  "name": "Ñengo Flow",
+  "enabled": true,
+  "region": "Caribbean",
+  "language": "es",
+  "genres": [
+   {
+    "genre": "Reggaeton",
+    "weight": 8.0
+   },
+   {
+    "genre": "Trap",
+    "weight": 7.0
+   },
+   {
+    "genre": "Hip Hop",
+    "weight": 6.0
+   }
+  ]
+ }
+]
