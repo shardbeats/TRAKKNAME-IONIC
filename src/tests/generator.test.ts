@@ -15,8 +15,9 @@ describe("generator (port of test_generator.py)", () => {
     const r = generateTitle(db, { genreName: "Trap", language: "es", artistCount: 2, rng: new SeededRng(0), save: false });
     expect(r.title.trim().length).toBeGreaterThan(0);
   });
-  it("curated pattern set: 8 enabled, ES names in Spanish", () => {
+  it("curated pattern set matches desktop: 8 total, all enabled, ES names in Spanish", () => {
     const db = loadSeedDb();
+    expect(db.patterns.length).toBe(8);
     const enabled = db.patterns.filter((p) => p.enabled === 1);
     expect(enabled.length).toBe(8);
     const esNames = db.patterns.filter((p) => p.language === "es").map((p) => p.name);
