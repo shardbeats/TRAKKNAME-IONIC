@@ -7,6 +7,13 @@ updates:
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
+    ignore:
+      - dependency-name: "react-router"
+        versions: [">=7"]
+      - dependency-name: "react-router-dom"
+        versions: [">=7"]
+      - dependency-name: "typescript"
+        versions: [">=6"]
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
