@@ -24,7 +24,7 @@
     "ionicons": "^8.1.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "react-router": "^6.30.0",
+    "react-router": "^8.5.1",
     "react-router-dom": "^6.30.0"
   },
   "devDependencies": {
