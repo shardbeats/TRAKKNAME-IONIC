@@ -17,7 +17,7 @@
     "@capacitor/app": "8.1.1",
     "@capacitor/core": "8.5.2",
     "@capacitor/haptics": "8.0.2",
-    "@capacitor/keyboard": "8.0.5",
+    "@capacitor/keyboard": "8.0.6",
     "@capacitor/status-bar": "8.0.3",
     "@ionic/react": "^9.0.0",
     "@ionic/react-router": "^9.0.10",
