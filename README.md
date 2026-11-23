@@ -77,4 +77,4 @@ keyPassword=<secret>
 `seed-json/` mirrors the desktop DB. Curate on desktop, re-export with the desktop exporter, then rebuild. Note: single-word patterns (`Single Noun`/`Una Palabra`) were removed from the seed on purpose in both projects — the 1-WORD toggle uses the engine's lone-NOUN fallback.
 
 ## License
-MIT (add LICENSE file as needed).
+GPL-3.0-only — see `LICENSE` and `LICENSING.md` (versions published before 2026-11-23 remain MIT).
